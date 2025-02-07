@@ -7,3 +7,5 @@ MetacMed aims to link basic research on acoustic and mechanical metamaterials (M
 
 The details can be found at [https://www.metacmed.eu/](https://www.metacmed.eu/)
 
+[![Logo](metacmed_logo.jfif)](https://www.metacmed.eu/)
+
